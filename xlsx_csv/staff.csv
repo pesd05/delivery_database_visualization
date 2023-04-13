@@ -1,0 +1,19 @@
+﻿staff_id;staff_firstname ;staff_lastname;staff_position ;staff_hourly_rate 
+CK-1;Lukas;Smith;cook;200
+CK-2;Michael;John ;cook;200
+CK-3;Olivia ;Jameson ;cook;200
+CK-4;Jennifer ;Rodrigo ;cook;180
+CK-5;Elizabeth ;Waldorf ;cook;180
+CK-6;Christine ;Uki;cook;140
+DLVR-1;Tomas;Carpenter ;delivery;180
+DLVR-2;John;Davis;delivery;180
+DLVR-3;David ;Faroe;delivery;180
+DLVR-4;Michael;Higgins;delivery;180
+DLVR-5;Angela;McKinley ;delivery;180
+DLVR-6;Monica ;Tupple;delivery;180
+DLVR-7;Liam;Hemsworth ;delivery;180
+CLNR-1;Noah ;Kim;cleaner;130
+CLNR-2;Avrey ;Ovard ;cleaner;130
+CLNR-3;Anna;Fields;cleaner;130
+MNGR-1;Louisa;Maria;manager;220
+MNGR-2;Sarah;Johns;manager;220

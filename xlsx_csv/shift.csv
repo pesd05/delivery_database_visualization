@@ -1,0 +1,15 @@
+﻿shift_id;shift_day;start_time;end_time 
+M-MR;Monday ;10:30;18:00
+M-2;Monday ;15:00;22:00
+T-MR;Tuesday;10:30;18:00
+T-2;Tuesday;15:00;22:00
+W-MR;Wednesday;10:30;18:00
+W-2;Wednesday;15:00;22:00
+THR-MR;Thursday;10:30;18:00
+THR-2;Thursday;15:00;22:00
+F-MR;Friday;10:30;18:00
+F-2;Friday;15:00;22:00
+STR-MR;Saturday;10:30;18:00
+STR-2;Saturday;15:00;22:00
+S-MR;Sunday;10:30;16:00
+S-2;Sunday;14:00;20:00

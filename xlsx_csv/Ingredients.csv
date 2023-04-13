@@ -1,0 +1,53 @@
+﻿ing_id;ing_name ;ing_weight ;ing_measure;ing_price
+ING001;Pizza dough ball (8 pack);2000;grams;429,00 CZK
+ING002;Tomato sauce;4500;grams;200,00 CZK
+ING003;Mozarella cheese ;2500;grams;500,00 CZK
+ING004;Oregano;500;grams;350,00 CZK
+ING005;Salami;3500;grams;1 000,00 CZK
+ING006;Chilli pepper;1000;grams;300,00 CZK
+ING007;Eggplant ;1000;grams;300,00 CZK
+ING008;Tomato  ;2500;grams;240,00 CZK
+ING009;Cucumber ;2500;grams;240,00 CZK
+ING010;Parmesan ;2500;grams;560,00 CZK
+ING011;Gorgonzola ;2000;grams;600,00 CZK
+ING012;Ricotta ;1500;grams;580,00 CZK
+ING013;Capers;1000;grams;200,00 CZK
+ING014;Pepperoni ;2500;grams;1 000,00 CZK
+ING015;Tuna ;2000;grams;1 000,00 CZK
+ING016;Ham;5000;grams;1 200,00 CZK
+ING017;Prosciuto ;4000;grams;1 500,00 CZK
+ING018;Shrimp ;1500;grams;2 000,00 CZK
+ING019;Pineapple ;5000;grams;900,00 CZK
+ING020;Spinach ;1000;grams;150,00 CZK
+ING021;Garlic ;1000;grams;220,00 CZK
+ING022;Butter;1000;grams;180,00 CZK
+ING023;Chicken breasts ;6000;grams;840,00 CZK
+ING024;Chicken pieces ;5000;grams;900,00 CZK
+ING025;Lettuce;6000;grams;300,00 CZK
+ING026;Ceesar dressing ;3000;grams;680,00 CZK
+ING027;Sour cream ;2000;grams;230,00 CZK
+ING028;Mushrooms ;3500;grams;400,00 CZK
+ING029;Onion ;6500;grams;120,00 CZK
+ING030;Bell pepper ;3000;grams;430,00 CZK
+ING031;Salt ;6000;grams;150,00 CZK
+ING032;Olive oil ;1000;grams;300,00 CZK
+ING033;Artichoke ;1000;grams;210,00 CZK
+ING034;Broccoli ;3000;grams;210,00 CZK
+ING035;Coca Cola ;50000;mililitres ;1 000,00 CZK
+ING036;Still water ;100000;mililitres ;800,00 CZK
+ING037;Mineral water;100000;mililitres ;970,00 CZK
+ING038;Fanta ;30000;mililitres ;1 000,00 CZK
+ING039;Sprite ;30000;mililitres ;1 000,00 CZK
+ING040;Earl Gray tea ;500;grams;560,00 CZK
+ING041;Roiboos tea;500;grams;560,00 CZK
+ING042;Jasmin tea;500;grams;430,00 CZK
+ING043;White tea ;500;grams;600,00 CZK
+ING044;Mint tea ;500;grams;360,00 CZK
+ING045;Brownie ;30;pieces;1 000,00 CZK
+ING046;Carrot cake ;30;pieces;1 000,00 CZK
+ING047;French fries frozen ;6000;grams;700,00 CZK
+ING048;Vanilla Ice cream ;4500;mililitres ;560,00 CZK
+ING049;Chocolate ice cream;4500;mililitres ;560,00 CZK
+ING050;Club Mate ;20000;mililitres ;1 200,00 CZK
+ING051;Fritz cola ;20000;mililitres ;1 400,00 CZK
+ING052;Spezi ;20000;mililitres ;1 300,00 CZK

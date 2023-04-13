@@ -1,0 +1,32 @@
+﻿item_id;recipe_id;item_name;item_category ;item_size ;item_price
+BRWN-DES;;Brownie;Desert;1 pc;120,00 CZK
+CRTCK-DES;;Carrot cake;Desert;1 pc;100,00 CZK
+CCCL-BEV;;Coca Cola;Beverages;0.333 ml;40,00 CZK
+WTR-BEV;;Water;Beverages;0.5 ml;30,00 CZK
+MWT-BEV;;Mineral Water;Beverages;0.5 ml;30,00 CZK
+FNT-BEV;;Fanta;Beverages;0.333 ml;40,00 CZK
+SPRT-BEV;;Sprite;Beverages;0.333 ml;40,00 CZK
+CLBMT-BEV;;Club Mate;Beverages;0.5 ml;65,00 CZK
+FRTZ-BEV;;Fritz cola;Beverages;0.333 ml;65,00 CZK
+SPZ-BEV;;Spezi;Beverages;0.5 ml;65,00 CZK
+VICE-DES;;Vanilla Ice cream;Desert;70 g;80,00 CZK
+CHICE-DES;;Chocolate Ice cream;Desert;70 g;80,00 CZK
+FF-SIDE;;French fries ;Sides;150 g;120,00 CZK
+MRG-PIZ;;Margherita;Pizza;32 cm;160,00 CZK
+FNGH-PIZ;;Funghi;Pizza;32 cm;180,00 CZK
+4FRMG-PIZ;;Quattro Formaggi;Pizza;32 cm;180,00 CZK
+CPRCS-PIZ;;Capricciosa;Pizza;32 cm;200,00 CZK
+VG-PIZ;;Vegetariana;Pizza;32 cm;180,00 CZK
+SLM-PIZ;;Salami;Pizza;32 cm;200,00 CZK
+HW-PIZ;;Hawai;Pizza;32 cm;200,00 CZK
+BRCCL-PIZ;;Broccolo;Pizza;32 cm;200,00 CZK
+PPPRN-PIZ;;Pepperoni;Pizza;32 cm;180,00 CZK
+MRG-PIZ4;;Margherita;Pizza;40 cm ;220,00 CZK
+FNGH-PIZ4;;Funghi;Pizza;40 cm ;240,00 CZK
+FRMG-PIZ4;;Quattro Formaggi;Pizza;40 cm ;240,00 CZK
+CPRS-PIZ4;;Capricciosa;Pizza;40 cm ;260,00 CZK
+VG-PIZ4;;Vegetariana;Pizza;40 cm ;240,00 CZK
+SLM-PIZ4;;Salami;Pizza;40 cm ;260,00 CZK
+HW-PIZ4;;Hawai;Pizza;40 cm ;260,00 CZK
+BRCL-PIZ4;;Broccolo;Pizza;40 cm ;260,00 CZK
+PPRN-PIZ4;;Pepperoni;Pizza;40 cm ;240,00 CZK
